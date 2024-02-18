@@ -4,4 +4,5 @@ module.exports = {
   endOfLine: "auto",
   singleQuote: false,
   trailingComma: "none"
+  // plugins: ["./common/autoinstallers/rush-prettier/node_modules/prettier-plugin-packagejson"]
 };

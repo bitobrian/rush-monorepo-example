@@ -1,5 +1,3 @@
 export default function BananaSpinner() {
-  return (
-    <div>BananaSpinner</div>
-  )
+  return <div>BananaSpinner</div>;
 }

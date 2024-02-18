@@ -5,6 +5,6 @@
  * @export
  * @returns {*}
  */
-export default function BananaSpinner() {
-  return <div>BananaSpinner</div>;
-}
+export const BananaSpinner = () => {
+  return <div>🍌</div>;
+};

@@ -1,1 +1,1 @@
-export * from './components/DigitFlipper'
+export * from "./components/DigitFlipper";

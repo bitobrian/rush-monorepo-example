@@ -1,5 +1,3 @@
-export default function DigitFlipper()  {
-  return (
-    <div>DigitFlipper</div>
-  )
+export default function DigitFlipper() {
+  return <div>DigitFlipper</div>;
 }

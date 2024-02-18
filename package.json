@@ -1,7 +1,7 @@
 {
   "name": "rush-monorepo-example",
   "scripts": {
-    "setup": "npm i -g pnpm && pnpm setup && pnpm i -g @microsoft/rush && rush update && rush build"
+    "setup": "npm i -g pnpm && pnpm setup && pnpm i -g typescript && pnpm i -g @microsoft/rush && rush update && rush build"
   },
   "author": "Microsoft"
 }
